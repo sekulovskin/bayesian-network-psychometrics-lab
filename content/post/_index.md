@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: Tutorials
 
 # Listing view
 view: compact
