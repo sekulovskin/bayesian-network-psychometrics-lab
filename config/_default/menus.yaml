@@ -13,4 +13,6 @@ main:
   - name: Publications
     url: publication
     weight: 30
-
+  - name: Rejections
+    url: rejections
+    weight: 30
