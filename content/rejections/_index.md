@@ -1,5 +1,5 @@
 ---
-title: List of Rejections
+title: Rejection Collection
 
 # Listing view
 view: compact
