@@ -27,7 +27,7 @@ interests:
 
 education:
   courses:
-    - course: PhD in 
+    - course: PhD in .
       year: 20
     - course: MSc in 
       year: 20
